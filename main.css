@@ -1,0 +1,16 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background: green;
+    margin-right: 500px;
+} 
+
+.all {
+    display: flex;
+    justify-content: center ;
+    padding: 0 60px;
+}
+body {
+    display: flex;
+    justify-content: space-between;
+}
